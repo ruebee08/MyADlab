@@ -1,0 +1,48 @@
+# Sensitive Information
+*.key
+*.pem
+*.pfx
+*.p12
+passwords.txt
+credentials.txt
+secrets/
+.env
+*.env
+
+# VM Files (too large for git)
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.vmx
+*.ovf
+*.ova
+
+# OS Files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Backup Files
+*.bak
+*.old
+*.backup
+*~
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PowerShell
+*.ps1xml
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
