@@ -23,7 +23,7 @@ This lab was created to learn Active Directory fundamentals and how to exploit c
 - **Domain**: root.lab
 Vulnerabilities Configured
 
-The following vulnerabilities were intentionally configured for testing:
+The following vulnerabilities were intentionally configured for testing:(the accounts with these vulns were configured directly through the Gui of the dc and not the powershell scripts)
 
 - **Abusing ACLs/ACEs** - Dangerous delegations and GenericAll permissions
 - **Kerberoasting** - Service accounts with SPNs and weak passwords
