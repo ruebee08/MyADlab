@@ -32,7 +32,7 @@ The following vulnerabilities were intentionally configured for testing:
 - **Password in Description** - Credentials stored in user object descriptions
 - **DCSync Attack** - Replicating Directory Changes permissions granted
 - **SMB Signing Disabled** - Lack of SMB signing on clients and servers
-Tools Used
+### Tools Used
 
 - **BloodHound** - AD relationship mapping and attack path analysis
 - **NetExec** - Network enumeration and exploitation
